@@ -1,0 +1,23 @@
+{
+    "name": "DHTheme",
+    "background": "#222822",
+    "black": "#0C0C0C",
+    "blue": "#0037DA",
+    "brightBlack": "#767676",
+    "brightBlue": "#3B78FF",
+    "brightCyan": "#61D6D6",
+    "brightGreen": "#C53633",
+    "brightPurple": "#4D8BBD",
+    "brightRed": "#E7E546",
+    "brightWhite": "#F5F5F5",
+    "brightYellow": "#6EBA4C",
+    "cursorColor": "#2C1D75",
+    "cyan": "#3A96DD",
+    "foreground": "#FBAA4B",
+    "green": "#C52121",
+    "purple": "#4D8BBD",
+    "red": "#FFCD09",
+    "selectionBackground": "#756F5B",
+    "white": "#CCC37C",
+    "yellow": "#68BA37"
+}
